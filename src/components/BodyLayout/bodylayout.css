@@ -1,0 +1,21 @@
+.body-layout {
+    display: flex;
+}
+
+.body-left {
+    display: flex;
+    background-color: aliceblue;
+    width: 25%;
+    flex-direction: column;
+    padding: 40px 20px;
+}
+
+.body-left-actions {
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+
+.body-right {
+    width: 75%;
+}
